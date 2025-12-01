@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+lib64/
+Python.h
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.env
+.venv
+.vscode/
+.idea/
+
+# Editor-specific
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.bak
+*.swp
+*~
+.#*
+.#
+# Python specific IDE/tools
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.nox/
+
+# Logs
+*.log
+!/.gitkeep
