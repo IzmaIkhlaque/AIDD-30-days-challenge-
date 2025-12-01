@@ -1,6 +1,3 @@
-# Temporary change to force a new commit for synchronization
-# This line will be removed later.
-
 # src/calculator_cli.py
 
 import sys
